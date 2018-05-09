@@ -1,4 +1,5 @@
-"# imdb_mig" 
+# imdb import
+
 1. agens 설치
 2. imdb 생성
 $ createdb imdb
